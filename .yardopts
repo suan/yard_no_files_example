@@ -1,0 +1,4 @@
+**/*.rb
+--exclude .*_spec.rb$
+--exclude .*_test.rb$
+--exclude dontwant/
